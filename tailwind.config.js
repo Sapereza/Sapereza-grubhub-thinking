@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         grubHubOrange: '#FF8000',
-        ffBlue: '#38487D'
+        ffBlue: '#0070EB'
       }
     },
   },
